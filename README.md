@@ -11,16 +11,16 @@
  **Task-List**               | **Description**     | **Status**        |
  ----------------------------|---------------------|-------------------|
  [Task-00](https://github.com/rakshith6404/amfoss_tasks_main-2-/tree/main/task-00) | Install Ubuntu 20.04 [Desktop]                                    |Completed           |
- [Task-01](https://github.com/rakshith6404/amfoss_tasks_main-2-/tree/main/task-00) | Star all the [amFOSS](https://github.com/amfoss) repositories     |Completed           |
- [Task-02](https://github.com/rakshith6404/amfoss_tasks_main-2-/tree/main/task-00) | Begin your journey with Linux and Git                             |Completed           |
- [Task-03](https://github.com/rakshith6404/amfoss_tasks_main-2-/tree/main/task-00) | Programming                                                       |Completed 6Qs           |
- [Task-04](https://github.com/rakshith6404/amfoss_tasks_main-2-/tree/main/task-00) | Aerglo Mars                                                       |Not DOne            |
- [Task-05](https://github.com/rakshith6404/amfoss_tasks_main-2-/tree/main/task-00) | Let me C                                                          |Completed            |
- [Task-06](https://github.com/rakshith6404/amfoss_tasks_main-2-/tree/main/task-00) | Flutter based UI task                    |Completed|
- [Task-07](https://github.com/rakshith6404/amfoss_tasks_main-2-/tree/main/task-00) | Rich Scraper                                                      |Completed          |
+ [Task-01](https://github.com/rakshith6404/amfoss_tasks_main-2-/tree/main/task-01) | Star all the [amFOSS](https://github.com/amfoss) repositories     |Completed           |
+ [Task-02](https://github.com/rakshith6404/amfoss_tasks_main-2-/tree/main/task-02) | Begin your journey with Linux and Git                             |Completed           |
+ [Task-03](https://github.com/rakshith6404/amfoss_tasks_main-2-/tree/main/task-03) | Programming                                                       |Completed 6Qs           |
+ [Task-04](https://github.com/rakshith6404/amfoss_tasks_main-2-/tree/main/task-04) | Aerglo Mars                                                       |Not DOne            |
+ [Task-05](https://github.com/rakshith6404/amfoss_tasks_main-2-/tree/main/task-05) | Let me C                                                          |Completed            |
+ [Task-06](https://github.com/rakshith6404/amfoss_tasks_main-2-/tree/main/task-06) | Flutter based UI task                    |Completed|
+ [Task-07](https://github.com/rakshith6404/amfoss_tasks_main-2-/tree/main/task-07) | Rich Scraper                                                      |Completed          |
  [Task-08](https://github.com/rakshith6404/amfoss_tasks_main-2-/tree/main/task-08) | JSExplorer                                                        |Completed           |
- [Task-09](https://github.com/rakshith6404/amfoss_tasks_main-2-/tree/main/task-00) | Setup a Simple Personal Website                                   |Completed            |
- [Task-10](https://github.com/rakshith6404/amfoss_tasks_main-2-/tree/main/task-00)| Cs-50                                                        |Completed whole cs50  |   
+ [Task-09](https://github.com/rakshith6404/amfoss_tasks_main-2-/tree/main/task-09) | Setup a Simple Personal Website                                   |Completed            |
+ [Task-10](https://github.com/rakshith6404/amfoss_tasks_main-2-/tree/main/task-10)| Cs-50                                                        |Completed whole cs50  |   
 
 ## My views about the tasks
 
