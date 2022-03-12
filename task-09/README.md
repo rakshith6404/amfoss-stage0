@@ -5,7 +5,7 @@
 ## I also wrote 2 blogs too.
 
 - *I learned to write and create blogs,which could make the website cool*,
-- Added some of [repositories](https://rakshith6404.github.io/) which i made,
+- Added some of [repositories](https://github.com/rakshith6404/rakshith6404.github.io) which i made,
 - Added some of my *social media* ID's where anyone visiting my website could take a look at,
 - And also i have written blogs on the same : (i) [blog-1](https://rakshith6404.github.io//2022/02/25/Aboutme)   (ii)[blog-2](https://rakshith6404.github.io//2022/02/25/tasks/)
 
