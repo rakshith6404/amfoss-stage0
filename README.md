@@ -10,27 +10,22 @@
 
  **Task-List**               | **Description**     | **Status**        |
  ----------------------------|---------------------|-------------------|
- [Task-00](https://github.com/rakshith6404/amfoss-tasks/tree/main/task-00) | Install Ubuntu 20.04 [Desktop]                                    |Completed           |
- [Task-01](https://github.com/rakshith6404/amfoss-tasks/tree/main/task-01) | Star all the [amFOSS](https://github.com/amfoss) repositories     |Completed           |
- [Task-02](https://github.com/rakshith6404/amfoss-tasks/tree/main/task-02) | Begin your journey with Linux and Git                             |Completed           |
- [Task-03](https://github.com/rakshith6404/amfoss-tasks/tree/main/task-03) | Programming                                                       |Not Done            |
- [Task-04](https://github.com/rakshith6404/amfoss-tasks/tree/main/task-04) | Aerglo Mars                                                       |Not DOne            |
- [Task-05](https://github.com/rakshith6404/amfoss-tasks/tree/main/task-05) | Let me C                                                          |Not DOne            |
- [Task-06](https://github.com/rakshith6404/amfoss-tasks/tree/main/task-06) | Flutter based UI task                    |Partially done(will come under Not DOne list)|
- [Task-07](https://github.com/rakshith6404/amfoss-tasks/tree/main/task-07) | Rich Scraper                                                      |Not Done            |
- [Task-08](https://github.com/rakshith6404/amfoss-tasks/tree/main/task-08) | JSExplorer                                                        |Completed           |
- [Task-09](https://github.com/rakshith6404/amfoss-tasks/tree/main/task-09) | Setup a Simple Personal Website                                   |NOt Done            |
- [Task-10](https://github.com/rakshith6404/amfoss-tasks/tree/main/task-10/week0)| Cs-50                                                        |Completed(scratch)  |   
- [Task-11](https://github.com/rakshith6404/amfoss-tasks/tree/main/task-11) | Poster Design                                                     |Completed           |
- [Task-12](https://github.com/rakshith6404/amfoss-tasks/tree/main/task-12) | Make the Block                                                    | Not DOne           | 
- [Task-13](https://github.com/rakshith6404/amfoss-tasks/tree/main/task-13) | Circuit Design (for Hardware freaks)                              |Not done            |
- [Task-14](https://github.com/rakshith6404/amfoss-tasks/tree/main/task-14) | Bandit                                                            |Completed           |
- [Task-15](https://github.com/rakshith6404/amfoss-tasks/tree/main/task-15) | Project Euler (for math geeks)                                    |Partially done (Pograms till euler#3 )|
+ [Task-00](https://github.com/rakshith6404/amfoss_tasks_main-2-/tree/main/task-00) | Install Ubuntu 20.04 [Desktop]                                    |Completed           |
+ [Task-01](https://github.com/rakshith6404/amfoss_tasks_main-2-/tree/main/task-00) | Star all the [amFOSS](https://github.com/amfoss) repositories     |Completed           |
+ [Task-02](https://github.com/rakshith6404/amfoss_tasks_main-2-/tree/main/task-00) | Begin your journey with Linux and Git                             |Completed           |
+ [Task-03](https://github.com/rakshith6404/amfoss_tasks_main-2-/tree/main/task-00) | Programming                                                       |Done            |
+ [Task-04](https://github.com/rakshith6404/amfoss_tasks_main-2-/tree/main/task-00) | Aerglo Mars                                                       |Not DOne            |
+ [Task-05](https://github.com/rakshith6404/amfoss_tasks_main-2-/tree/main/task-00) | Let me C                                                          |Completed            |
+ [Task-06](https://github.com/rakshith6404/amfoss_tasks_main-2-/tree/main/task-00) | Flutter based UI task                    |Completed|
+ [Task-07](https://github.com/rakshith6404/amfoss_tasks_main-2-/tree/main/task-00) | Rich Scraper                                                      |Completed          |
+ [Task-08](https://github.com/rakshith6404/amfoss_tasks_main-2-/tree/main/task-08) | JSExplorer                                                        |Completed           |
+ [Task-09](https://github.com/rakshith6404/amfoss_tasks_main-2-/tree/main/task-00) | Setup a Simple Personal Website                                   |Completed            |
+ [Task-10](https://github.com/rakshith6404/amfoss_tasks_main-2-/tree/main/task-00)| Cs-50                                                        |Completed whole cs50  |   
 
 ## My views about the tasks
 
-#### I honestly would say that these tasks have given me more and more ideas on technologies(both and haradware and software) and also to improve my confidence level a bit more .I wouldnt say that all the tasks given were easy and could be solved without any ease, still some of the tasks like [Flutter](https://github.com/rakshith6404/amfoss-tasks/tree/main/task-06) and [programming](https://github.com/rakshith6404/amfoss-tasks/tree/main/task-03) were quite kind of dfficult for me.Still i have learned many things which i havent learned before and also have come to know more about myself,Cause i havent been this confident ever and also i was lazy ,these tasks took off my laziness and hiked up my curiosity level on doing different tasks.I also have learned a new thing(although i do it,but not that often)**GOOGLING**😜😜.And YEAHH!!! day by day i was improving my knowledge
+### THis is the second time trying to get into the club , i am hard working and also at the same time very enthusiastic. Will work hard under any circumstances and also want to learn a lot about technology and their working , wanna makesomething really great in this world cause and this is the only platform/club to learn everything needed .Have to develop my skill in most part of the computer knowledge.The tasks were the first and the foremost step to this !!!!!! In the journey of tasks i have literally learned tons and tons of new things i learned which i didnt even know existed in this world!!!!!! The tasks given were the stepping stone to the journey of computers!!!!!.
 
-
+##### never give up !!!!! This is what motivated to do most of the main tasks given.
 
 **AMFOSS CLUB THANKS FOR GIVING ME THIS OPPORTUNITY TO DO THE TASKS AND ALSO HELPING ME LEARN THAT THERE ARE THESE NO.OF TECHNOLOGIES IN THIS WORLD!!! THANK YOU!!!!**
