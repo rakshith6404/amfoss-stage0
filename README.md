@@ -13,7 +13,7 @@
  [Task-00](https://github.com/rakshith6404/amfoss_tasks_main-2-/tree/main/task-00) | Install Ubuntu 20.04 [Desktop]                                    |Completed           |
  [Task-01](https://github.com/rakshith6404/amfoss_tasks_main-2-/tree/main/task-00) | Star all the [amFOSS](https://github.com/amfoss) repositories     |Completed           |
  [Task-02](https://github.com/rakshith6404/amfoss_tasks_main-2-/tree/main/task-00) | Begin your journey with Linux and Git                             |Completed           |
- [Task-03](https://github.com/rakshith6404/amfoss_tasks_main-2-/tree/main/task-00) | Programming                                                       |Done            |
+ [Task-03](https://github.com/rakshith6404/amfoss_tasks_main-2-/tree/main/task-00) | Programming                                                       |Completed 6Qs           |
  [Task-04](https://github.com/rakshith6404/amfoss_tasks_main-2-/tree/main/task-00) | Aerglo Mars                                                       |Not DOne            |
  [Task-05](https://github.com/rakshith6404/amfoss_tasks_main-2-/tree/main/task-00) | Let me C                                                          |Completed            |
  [Task-06](https://github.com/rakshith6404/amfoss_tasks_main-2-/tree/main/task-00) | Flutter based UI task                    |Completed|
