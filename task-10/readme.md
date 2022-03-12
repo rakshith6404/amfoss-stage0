@@ -6,4 +6,4 @@
 - Learned how to use them in the right situation.
 - Learned to solve real world problems.
 - Learned [Scratch](https://github.com/rakshith6404/amfoss_tasks_main-2-/blob/main/task-10/week-0/Task-10(cs50).sb3) too....
-- This also helped me solve the [5th task]().
+- This also helped me solve the [5th task](https://github.com/rakshith6404/amfoss_tasks_main-2-/tree/main/task-05).
